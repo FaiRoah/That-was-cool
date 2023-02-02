@@ -2,20 +2,20 @@
 I made this app to learn how to create Java desktop applications.
 
 The app is intended to use in an imaginary video game store to manage its goods.
-#
+
 ## Tech Stack
 - Java 17 
 - MySQL
 - JDBC
 - Swing
-# 
+
 ## Key features
 - Basic data entries editing 
 - User login
 - Entry changes history
 - Filter search
 - Encrypted password storing
-#
+
 ## Demo
 >Since this project was a part of my coursework at SUAI, the interface and the data is presented in Russian.
 
