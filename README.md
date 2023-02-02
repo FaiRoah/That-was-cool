@@ -53,4 +53,4 @@ All the passwords are stored encrypted using [Jasypt](http://jasypt.org/) which 
 
 ![User entries to show that passwords are encrypted](images/encrypted-passwords.png)
 
-###### This was interesting and fun to make! Special thanks to [luv2code](https://www.youtube.com/playlist?list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ).
+###### This was interesting and fun to make! Special thanks to [luv2code](https://www.youtube.com/playlist?list=PLEAQNNR8IlB4R7NfqBY1frapYo97L6fOQ) for wonderful tutorials on how to work with JDBC and Swing.
